@@ -1,2 +1,2 @@
 # ipc
-Inter-process communication in C
+University project. Inter-process communication in C
